@@ -1,8 +1,8 @@
 # Case 4
 
 
-Uma vez que a auditoria tem como objetivo identificar não-conformidades com o software da empresa, faz-se necessário verificar:  
-- O processo de desenvolvimento do software
+Uma vez que a auditoria tem como objetivo identificar não-conformidades com o *software* da empresa, faz-se necessário verificar:  
+- O processo de desenvolvimento do *software*
 - A segurança de informação
 - A infraestrutura do sistema
 - A integridade dos dados
