@@ -14,8 +14,10 @@ def get_user_and_email(filename):
     try:
         with open(filename, "r") as user_emails:
             reader = csv.reader(user_emails)
+            # skip header
+            next(reader, None)
 
-            # Using generator to read potentially large CSV files
+            # using generator to read potentially large CSV files
             for row in reader:
                 yield row
     except IOError as e:
