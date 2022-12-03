@@ -29,7 +29,7 @@ Para executar o script, é necessário seguir estes passos:
 2. Vá até o diretório em que o script se encontra.  
 `> cd "path\to\script"`
 3. Execute o script utilizando Python:  
-`> python3 script.py`
+`> python script.py`
 4. Verifique o resultado através do comando:  
 `> net users`
 
